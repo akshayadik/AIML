@@ -117,7 +117,7 @@ how many tournaments they have qualified, their best position in the past, etc.
     a better data analysis
 
 ## Getting started
-Solution consiste of HTML and ipynb files.
+Solution consist of HTML and ipynb files.
 
 ## Authors
 
